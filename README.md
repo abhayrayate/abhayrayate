@@ -1,3 +1,4 @@
+![logo](https://github.com/abhayrayate/abhayrayate/blob/main/linkdin.jpg)
 <h1 align="center">Hi 👋, I'm Abhay Rayate</h1>
 <h3 align="center">A passionate fullstack java developer from India</h3>
 
