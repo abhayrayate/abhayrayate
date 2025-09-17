@@ -3,9 +3,8 @@
 <h3 align="center">A passionate fullstack java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayrayate&label=Profile%20views&color=0e75b6&style=flat" alt="abhayrayate" /> </p>
-<p align="center">
+
   <img alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-</p>
 
 ## 🌟 About Me  
 🎓 B.E. Computer Engineering | Sir Visvesvaraya Institute Of Technolgy, Nashik.  
