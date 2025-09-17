@@ -6,11 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayrayate&label=Profile%20views&color=0e75b6&style=flat" alt="abhayrayate" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Java Course**
+## 🌟 About Me  
+🎓 B.E. Computer Engineering | [Institute Name], [City]  
+💻 Passionate about **Java Development, Full Stack Applications & REST APIs**  
+☕ Skilled in **Core Java, JDBC, JSP, Servlets, Spring Boot**  
+🗄️ Experience with **MySQL / Oracle DB** and database connectivity  
+🔍 Strong in problem-solving, OOPs, and writing clean, maintainable code  
+🚀 Completed internship based on Java profile with real-world project exposure  
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhayrayate]](https://github.com/abhayrayate])
-
-- 💬 Ask me about **Java,AdvanceJava, Spring Web MVC, SpringBoot Data JPA,SpringBoot,Rest APIs**
 ## 🛠 Skills  
 
 - **Languages:** Java, SQL  
