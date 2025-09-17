@@ -14,6 +14,9 @@
 🔍 Strong in problem-solving, OOPs, and writing clean, maintainable code  
 🚀 Completed internship based on Java profile with real-world project exposure  
 
+
+
+
 ## 🛠 Skills  
 
 - **Languages:** Java, SQL  
