@@ -1,6 +1,6 @@
 ![logo](https://github.com/abhayrayate/abhayrayate/blob/main/linkdin.jpg)
 <h1 align="center">Hi 👋, I'm Abhay Rayate</h1>
-<h3 align="center">A passionate fullstack java developer from India</h3>
+<h3 align="center">A passionate fullstack java developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
@@ -10,7 +10,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhayrayate]](https://github.com/abhayrayate])
 
-- 💬 Ask me about **Java,AdvanceJava,SpringBoot**
+- 💬 Ask me about **Java,AdvanceJava, Spring Web MVC, SpringBoot Data JPA,SpringBoot,Rest APIs**
+## 🛠 Skills  
+
+- **Languages:** Java, SQL  
+- **Web Technologies:** JSP, Servlets, HTML, CSS, JavaScript  
+- **Frameworks:** React,Spring,Spring Web MVC, SpringBoot Data JPA,SpringBoot,Rest APIs 
+- **Database:** MySQL / Oracle  
+- **Tools:** Git, Maven, Eclipse / IntelliJ IDEA ,STS 
 
 - 📫 How to reach me **abhayrayate@gmail.com**
 
