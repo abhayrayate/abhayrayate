@@ -21,8 +21,8 @@
 
 - **Languages:** Java, SQL  
 - **Web Technologies:** JSP, Servlets, HTML, CSS, JavaScript  
-- **Frameworks:** React,Spring,Spring Web MVC, SpringBoot Data JPA,SpringBoot,Rest APIs 
-- **Database:** MySQL / Oracle  
+- **Frameworks:** React,Spring,Spring Web MVC, SpringBoot Data JPA,SpringBoot,Rest APIs ,BootStrap
+- **Database:** MySQL / Oracle ,Pl/SQL 
 - **Tools:** Git, Maven, Eclipse / IntelliJ IDEA ,STS 
 
 - 📫 How to reach me **abhayrayate@gmail.com**
